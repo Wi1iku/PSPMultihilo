@@ -14,7 +14,7 @@ public class Main {
         }
 
 
-        matriz.mostrarmatiz();
+        matriz.mostrarmatiz();//
         }
 
 
